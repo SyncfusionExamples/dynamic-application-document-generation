@@ -1,4 +1,4 @@
-# dynamic-application-document-generation
+# Dynamic Application Document Generation
 
 ## Overview
 ---
