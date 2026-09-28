@@ -32,7 +32,6 @@ namespace dynamic_application_document_generation
                         render.Settings.AutoDetectComplexScript = true;
                         //Converts Word document into PDF document
                         PdfDocument pdfDocument = render.ConvertToPDF(document);
-
                         pdfDocument.Save(@"../../../Output/Output.pdf");
                     }
                 }
