@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Mail_merge_with_.NET_objects
+namespace dynamic_application_document_generation
 {
     class Program
     {
